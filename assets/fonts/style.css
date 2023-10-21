@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Hacen Tunisia Bold';
+   font-display: swap;
+   src: url('Hacen Tunisia Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Hacen Tunisia Lt';
+   font-display: swap;
+   src: url('Hacen Tunisia Lt/font.ttf');
+}
+@font-face {
+   font-family: 'Hacen Tunisia';
+   font-display: swap;
+   src: url('Hacen Tunisia/font.ttf');
+}
